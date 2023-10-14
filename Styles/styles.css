@@ -197,7 +197,9 @@ html{
 
 
 /* Contact us Section */
-
+#contact{
+    align-items: center;
+}
 
 #contact {
     text-align: center;
@@ -226,7 +228,7 @@ label {
 input[type="text"],
 input[type="email"],
 textarea {
-    width: 100%;
+    width: 97%;
     padding: 10px;
     border: 1px solid #ccc;
     border-radius: 5px;
